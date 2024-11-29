@@ -1,2 +1,2 @@
-## Introducción
-# La contaminación ambiental es un problema muy grave que se agrava con el uso masivo de dispositivos electrónicos. Temas como los residuos informáticos y la obsolescencia programada generan grandes cantidades de desechos, afectando al medio ambiente y agotando recursos naturales. Este proyecto hablará sobre estas problemáticas y cómo la informática ecológica puede ayudar a reducir su impacto, promoviendo un uso más sostenible de la tecnología.
+# Introducción
+## La contaminación ambiental es un problema muy grave que se agrava con el uso masivo de dispositivos electrónicos. Temas como los residuos informáticos y la obsolescencia programada generan grandes cantidades de desechos, afectando al medio ambiente y agotando recursos naturales. Este proyecto hablará sobre estas problemáticas y cómo la informática ecológica puede ayudar a reducir su impacto, promoviendo un uso más sostenible de la tecnología.
