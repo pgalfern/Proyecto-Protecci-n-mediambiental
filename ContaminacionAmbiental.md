@@ -1,4 +1,4 @@
-# ¿Qué es?
+# ¿Qué es la contaminación ambiental?
 ## La contaminación ambiental es la presencia de componentes nocivos, bien sean de naturaleza biológica, química o de otra clase, en el medioambiente, de modo que supongan un perjuicio para los seres vivos que habitan un espacio, incluyendo, por supuesto, a los seres humanos. Generalmente la contaminación ambiental tiene su origen en alguna actividad humana. Hay varios tipos de contaminacion ambiental, algunos por ejemplo son la contaminación atmosférica, la contaminación hídrica y la contaminación lumínica entre otros.
 
 ## Consecuencias
