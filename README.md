@@ -2,4 +2,4 @@
 
 ![imagen](img/)
 
-1. [Introducción](Introduccion.md)
+1. [Indice](Indice.md)
